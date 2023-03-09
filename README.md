@@ -15,6 +15,14 @@ If you are a JS novice, here's how to get started:
 3. Run `npm test` to run the automated tests
 4. Run `npm start` to launch `index.js` for any manual testing
 
+# Ticket Breakdow
+
+- Ticket 1: Custom IDs for Agents. Description: We need to let Facilities use
+  their own IDs for Agents.
+
+- Ticket 2: Custom IDs in Shift Responses. Description: We need to show Agents'
+  custom IDs in Shift responses.
+
 # Refactoring explanation
 
 - Added a new variable called newKey to avoid computing the hash function
